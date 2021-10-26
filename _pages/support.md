@@ -2,10 +2,13 @@
 layout: page
 title: Support
 include_in_header: true
+include_in_footer: true
 ---
 
 # Support
 
-## Coming Soon
+## [How to sync your data](/sync)
 
-Meanwhile please don't hesistate to get in touch with any query – Seb
+## [How to share with a family member or other](/share-with-other)
+
+More information is coming soon! Meanwhile please don't hesitate to get in touch with any query – Seb

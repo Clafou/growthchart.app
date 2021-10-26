@@ -35,28 +35,28 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 'All ages: babies, toddlers, children, teens'
-    description                           : Continue tracking growth long after the days of diaper tracking and breastfeeding are over.
+  - title                                 : All ages
+    description                           : Includes head circumference and weight-for-length references for newborns and babies, and BMI for older children and teens.
     fontawesome_icon_name                 : signal
     
-  - title                                 : Official and custom charts
-    description                           : Choose the official WHO and CDC templates used by pediatricians or dynamic charts automatically tailored to your child's lifespan.
+  - title                                 : Official growth charts
+    description                           : Choose the official WHO and CDC templates used by pediatricians or custom charts automatically tailored to your child's lifespan.
     fontawesome_icon_name                 : clipboard
 
-  - title                                 : Compare siblings
-    description                           : Display multiple children together to compare their growth as they age.
+  - title                                 : Whole family
+    description                           : View siblings together to compare their growth as they age. Give the other parent access via iCloud Drive, and purchase once via Family Sharing.
     fontawesome_icon_name                 : user-friends
 
   - title                                 : Premie-friendly
-    description                           : Dedicated preterm charts and corrected age support for premature babies.
+    description                           : Dedicated preterm charts for newborns and corrected age support for ongoing monitoring of premature babies.
     fontawesome_icon_name                 : heart
 
-  - title                                 : Your data under your control
-    description                           : Manage your storage using files. Store it on iCloud Drive, Dropbox or other to backup and sync.
+  - title                                 : Your data, yours alone
+    description                           : Secure on-device storage. Manage your storage using files. Store it on iCloud Drive, Dropbox or other for private back up and sync.
     fontawesome_icon_name                 : folder
 
-  - title                                 : Indepent and here to stay
-    description                           : With a 10-year maintenance track record, you can rely on it to be maintained for many more years to come.
+  - title                                 : Independent and caring
+    description                           : Created by a parent in 2011 and grown into a family business. The app has never included ads and has never collected your data.
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title

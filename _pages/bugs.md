@@ -9,7 +9,11 @@ include_in_footer: false
 
 ## Version 2.0
 
-* Crash on iOS 13 – When you open a child on iOS 13, Growth+ immediately shuts down. An update to fix this bug is on the way. Alternatively, updating your device to a newer iOS version will resolve this bug.
+* Crash on iOS 13 – When you open a child on iOS 13, Growth+ immediately shuts down. This is fixed in version 2.0.1.
+
+## Version 2.0.1
+
+* A bug on iPad (but not on iPhone) makes it impossible to create a profile if you have selected external storage. This is fixed in version 2.0.2.
 
 ## Do you have another issue?
 
