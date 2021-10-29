@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : clipboard
 
   - title                                 : Whole family
-    description                           : View siblings together to compare their growth as they age. Give the other parent access via iCloud Drive, and purchase once via Family Sharing.
+    description                           : View siblings together to compare their growth. Give the other parent access via iCloud Drive. Purchase only once via Family Sharing.
     fontawesome_icon_name                 : user-friends
 
   - title                                 : Premie-friendly
@@ -56,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : folder
 
   - title                                 : Independent and caring
-    description                           : On the App Store for 10 years and joined by other apps to grow into a family business. Has never included ads and never collected your data.
+    description                           : On the App Store for 10 years and counting. Use the contact button in the app for direct support by the developer.
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
