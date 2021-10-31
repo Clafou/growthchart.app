@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : All ages
-    description                           : Includes head circumference and weight-for-length references for newborns and babies, and BMI for older children and teens.
+    description                           : Includes head circumference and weight-for-length for newborns and babies. Later on, BMI will be useful for children and teens.
     fontawesome_icon_name                 : signal
     
   - title                                 : Official growth charts
@@ -44,19 +44,19 @@ features                                  :
     fontawesome_icon_name                 : clipboard
 
   - title                                 : Whole family
-    description                           : View siblings together to compare their growth. Give the other parent access via iCloud Drive. Purchase only once via Family Sharing.
+    description                           : View siblings together to compare their growth. Give the other parent access via iCloud Drive. Purchase once via Family Sharing.
     fontawesome_icon_name                 : user-friends
 
   - title                                 : Premie-friendly
-    description                           : Dedicated preterm charts for newborns and corrected age support for ongoing monitoring of premature babies.
+    description                           : Dedicated preterm charts using gestational age for newborns, corrected age support for the ongoing monitoring of premature babies.
     fontawesome_icon_name                 : heart
 
   - title                                 : Your data, yours alone
-    description                           : Secure on-device storage. Manage your storage using files. Store it on iCloud Drive, Dropbox or other for private back up and sync.
+    description                           : Choose where to keep your data. Local by default, or as documents on iCloud Drive, Dropbox or other for private back up and sync.
     fontawesome_icon_name                 : folder
 
   - title                                 : Independent and caring
-    description                           : On the App Store for 10 years and counting. Use the contact button in the app for direct support by the developer.
+    description                           : On the App Store for 10 years and counting! Say hi and get direct support by the developer via the contact button in the app.
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
