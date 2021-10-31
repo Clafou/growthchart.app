@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : signal
     
   - title                                 : Official growth charts
-    description                           : Choose the official WHO and CDC templates used by pediatricians or custom charts automatically tailored to your child's lifespan.
+    description                           : Choose the official WHO and CDC templates used by pediatricians or custom charts automatically tailored to your child's age.
     fontawesome_icon_name                 : clipboard
 
   - title                                 : Whole family
