@@ -7,9 +7,9 @@ include_in_footer: false
 
 # Known Bugs
 
-## Current version
+## Version 2.0.3
 
-No bug reported so far.
+A bug is affecting the corrected age mode (for preterm babies). The setting defaults to the wrong mode (for preemies it should default to "From: Due date" but instead defaults to "From: birth") and changing this setting does not stick, so you keep having to change it back when opening charts for a preterm baby. I sincerly apologise to everyone tracking preterm children and am working on an urgent update to fix this bug. For now, each time you open the charts please tap on the wheel and change "From: Birth" to "From: Due date" for the correct setting.
 
 ## Is something wrong?
 
