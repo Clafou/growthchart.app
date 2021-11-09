@@ -7,6 +7,8 @@ include_in_footer: false
 
 # Known Bugs
 
+In rare cases the app tells you that file db.sqlite cannot be opened. If this happens please check if you device storage is full and free some space by deleting unneeded photos or other data. Please get in touch if you are experiencing this issue.
+
 ## Is something wrong?
 
 If you are experiencing issues with the app, please tap on the ⓘ button in the top left corner, then on 'Send Feedback' and describe the issue in your email. I will then investigate and respond as soon as I can. Sorry for the inconvience and thank you for your understanding – Seb
