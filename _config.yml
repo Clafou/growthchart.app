@@ -13,7 +13,7 @@ presskit_download_link                    : # https://emilbaehr.com             
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Growth                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : baby & child growth charts                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Track your child's growth
+app_description                           : The app to record a child's measurements and track them on standard growth charts
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -137,4 +137,4 @@ plugins:
   - jekyll-redirect-from  
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://growthchart.app" # the base hostname & protocol for your site, e.g. http://example.com
