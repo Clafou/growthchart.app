@@ -471,16 +471,38 @@ nav > ul li a:active {
 
 // Feature List
 
-.features {
+.main {
 	grid-area: c;
+	display: flex;
+	flex: 0 1 auto;
+	// align-content: flex-start;
+	// justify-content: flex-start;
+	flex-wrap: wrap;
+	flex-grow: 1;
+	flex-direction: row;
+
+}
+
+.features {
+	// grid-area: c;
 	display: flex;
 	flex: 0 1 auto;
 	align-content: flex-start;
 	justify-content: flex-start;
 	flex-grow: 1;
 	flex-wrap: wrap;
-	margin-top: 93px;
+	margin: 46px 0;
+	width: calc(100%);
+
 }
+
+.main > h2 {
+	font-size: 3rem;	
+	color: $feature-title-color;
+	text-align: center;
+	width: 100%;
+}
+
 
 .feature {
 	display: flex;
@@ -524,12 +546,13 @@ nav > ul li a:active {
 
 .featureText > h3 {
 	color: $feature-title-color;
+	line-height: 1.4;
 }
 
 .featureText > p {
 	color: $feature-text-color;
 	margin-top: 8px;
-	line-height: 1.5;
+	line-height: 1.4;
 }
 
 @media only screen and (max-width: 992px) {

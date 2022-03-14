@@ -1,6 +1,11 @@
+<div class="main">
+    {% for section in site.sections %}
+<h2>
+    {{ section.heading }}
+</h2>
 <div class="features">
 
-    {% for feature in site.features %}
+    {% for feature in section.features %}
 
     {% if feature.title %}
     <div class="feature">
@@ -22,5 +27,7 @@
     {% endif %}
 
     {% endfor %}
-
 </div>
+    {% endfor %}
+</div>
+

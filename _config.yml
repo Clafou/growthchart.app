@@ -12,8 +12,8 @@ presskit_download_link                    : # https://emilbaehr.com             
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Growth                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : baby & child growth charts                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The app to record a child's measurements and track them on standard growth charts
+app_price                                 : Baby & child growth charts                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : The app to record a child's measurements and track them on standard growth charts. <br>Growth charts let you see your child's progress over time and compare it to the growth of a healthy child of a comparable build. They are used by pediatricians to monitor a child and to check that growth is on track.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -33,35 +33,67 @@ youtube_username                          :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+sections:
+- heading: Answers your questions
+  features                                  :
 
-  - title                                 : All ages
-    description                           : Includes head circumference and weight-for-length for newborns and babies. Later on, BMI will be useful for children and teens.
-    fontawesome_icon_name                 : signal
-    
-  - title                                 : Official growth charts
-    description                           : Choose the official WHO and CDC templates used by pediatricians or custom charts automatically tailored to your child's age.
-    fontawesome_icon_name                 : clipboard
+    - title                                 : Is my child growing at the right pace?
+      description                           : The reference curves on your chart let you see typical progress.
+      fontawesome_icon_name                 : question
+      
+    - title                                 : What are my baby's percentiles?
+      description                           : See the percentile for weight, height and head circumference.
+      fontawesome_icon_name                 : question
 
-  - title                                 : Whole family
-    description                           : View siblings together to compare their growth. Give the other parent access via iCloud Drive. Purchase once via Family Sharing.
-    fontawesome_icon_name                 : user-friends
+    - title                                 : What is my child's BMI?
+      description                           : Normal BMI bands change with a child's age. The app calculates BMI scores and percentile.
+      fontawesome_icon_name                 : question
 
-  - title                                 : Premie-friendly
-    description                           : Dedicated preterm charts using gestational age for newborns, corrected age support for the ongoing monitoring of premature babies.
-    fontawesome_icon_name                 : heart
+- heading: Includes the most authoritative growth charts with percentiles
+  features                                  :
 
-  - title                                 : Your data, yours alone
-    description                           : Choose where to keep your data. Local by default, or as documents on iCloud Drive, Dropbox or other for private back up and sync.
-    fontawesome_icon_name                 : folder
+    - title                                 : World Health Organization (WHO)
+      description                           : Ideal for breastfed babies and children around the world.
+      fontawesome_icon_name                 : clipboard
+      
+    - title                                 : US Centers for Disease Control and Prevention (CDC)
+      description                           : Best for formula-fed babies and North American children.
+      fontawesome_icon_name                 : clipboard
+      
+    - title                                 : Preterm baby charts (Fenton)
+      description                           : Dedicated chart for premature babies.
+      fontawesome_icon_name                 : clipboard
+      
+- heading: Easily maintain growth records
+  features                                  :
 
-  - title                                 : Independent and caring
-    description                           : On the App Store for 10 years and counting! Say hi and get direct support by the developer via the contact button in the app.
-    fontawesome_icon_name                 : star
+    - title                                 : Ready when you are
+      description                           : No account or password to remember. No Internet connection required.
+      fontawesome_icon_name                 : star
+      
+    - title                                 : Fast, flexible input
+      description                           : Speedy entry with on-the-fly unit conversion and autocorrect.
+      fontawesome_icon_name                 : star
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    - title                                 : Your data, yours alone
+      description                           : Easily export (CSV, PDF, JPEG). Choose your storage – local or on iCloud Drive, Dropbox or other for private back up and sync.
+      fontawesome_icon_name                 : star
+
+
+- heading: For every parent
+  features                                  :
+
+    - title                                 : "All ages: babies, toddlers, children, teens"
+      description                           : Keep tracking for years, from newborns all the way to adulthood. No subscription, use it forever! On the App Store since 2010.
+      fontawesome_icon_name                 : heart
+      
+    - title                                 : Premie-friendly
+      description                           : Dedicated preterm charts using gestational age for newborns. Corrected age support for the ongoing monitoring of premature babies.
+      fontawesome_icon_name                 : heart
+
+    - title                                 : Compare siblings
+      description                           : Display multiple children together to compare their growth at the same age.
+      fontawesome_icon_name                 : heart
 
 
 
