@@ -7,7 +7,9 @@ include_in_footer: false
 
 # Known Bugs
 
-In rare cases the app tells you that file db.sqlite cannot be opened. If this happens please check if you device storage is full and free some space by deleting unneeded photos or other data. Please get in touch if you are experiencing this issue.
+## Version 2.0.11
+
+* If your app crashes (thankfully this should be rare), it will crash again after 10 seconds each time you reopen it due to a faulty crash reporting system. Yes, the crash reporting system crashes! If this affects you please don't delete the app, just wait for the 2.0.12 update which is coming shortly. Alternatively please email me (feedback@clafou.com) and I will send you an update directly to fix it. Apologies!
 
 ## Is something wrong?
 
