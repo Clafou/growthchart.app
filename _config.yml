@@ -13,7 +13,7 @@ presskit_download_link                    : # https://emilbaehr.com             
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Growth                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Baby & child growth charts                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The app to record a child's measurements and track them on standard growth charts. <br>Growth charts let you see your child's progress over time and compare it to the growth of a healthy child of a comparable build. They are used by pediatricians to monitor a child and to check that growth is on track.
+app_description                           : The app to record your child's measurements and track them on standard growth charts with percentiles.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
