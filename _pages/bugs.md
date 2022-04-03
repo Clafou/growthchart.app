@@ -9,7 +9,7 @@ include_in_footer: false
 
 ## Version 2.0.11
 
-* If your app crashes (thankfully this should be rare), it will crash again after 10 seconds each time you reopen it due to a faulty crash reporting system. Yes, the crash reporting system crashes! If this affects you please don't delete the app, just wait for the 2.0.12 update which is coming shortly. Alternatively please email me (feedback@clafou.com) and I will send you an update directly to fix it. Apologies!
+* If your app crashes (thankfully this should be rare), it will crash again after 10 seconds each time you reopen it due to a faulty crash reporting system. Yes, the crash reporting system crashes! This bug has now been fixed, so if this affects you please download the newer update (version 2.0.12). To do so, open the App Store, search for the app, open its page and tap on the Update button.
 
 ## Is something wrong?
 
