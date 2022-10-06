@@ -137,7 +137,8 @@ footer_text_color                         : "#666666"
 
 
 
-
+# https://stackoverflow.com/questions/60357663/do-apple-app-site-association-files-work-with-github-pages-i-e-site-github-io
+include: [".well-known"]
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
