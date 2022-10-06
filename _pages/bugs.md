@@ -7,15 +7,17 @@ include_in_footer: false
 
 # Known Bugs
 
-## Version 2.0.11
-
-* If your app crashes (thankfully this should be rare), it will crash again after 10 seconds each time you reopen it due to a faulty crash reporting system. Yes, the crash reporting system crashes! This bug has now been fixed, so if this affects you please download the newer update (version 2.0.12). To do so, open the App Store, search for the app, open its page and tap on the Update button.
+No issue to report in the current version (2.0.12).
 
 ## Is something wrong?
 
 If you are experiencing issues with the app, please tap on the ⓘ button in the top left corner, then on 'Send Feedback' and describe the issue in your email. I will then investigate and respond as soon as I can. Sorry for the inconvience and thank you for your understanding – Seb
 
 # Fixed
+
+## Version 2.0.11
+
+* If your app crashes (thankfully this should be rare), it will crash again after 10 seconds each time you reopen it due to a faulty crash reporting system. Yes, the crash reporting system crashes! This bug has now been fixed, so if this affects you please download the newer update (version 2.0.12). To do so, open the App Store, search for the app, open its page and tap on the Update button.
 
 ## Version 2.0.5
 
