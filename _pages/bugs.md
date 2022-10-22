@@ -7,7 +7,10 @@ include_in_footer: false
 
 # Known Bugs
 
-No issue to report in the current version (2.0.12).
+## Current version
+
+* Crash when opening a file via Folder > Open File
+If the file is on a cloud file service (such as iCloud Drive or OneDrive) a crash occurs if the file is available but has not yet been downloaded to your device. To fix this, instead of using Open File, open your file via the Files app, which does the same thing but does not crash. Just open the Files app, locate the file, and tap on it to open it. A fix for the crash will be included in the next update.
 
 ## Is something wrong?
 
