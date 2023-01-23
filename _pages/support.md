@@ -11,4 +11,4 @@ include_in_footer: true
 
 ## [How to share with a family member or other](/share-with-other)
 
-More information is coming soon! Meanwhile please don't hesitate to get in touch with any query – Seb
+More information is coming soon! Meanwhile please don't hesitate to get in touch with any query. Use the Send Feedback option in the app or just drop me a line at [feedback@clafou.com](mailto:feedback@clafou.com) – Seb
